@@ -5,7 +5,7 @@ Repository: [tech-learning](https://github.com/mkmalaufi-lgtm/tech-learning.git)
 - Technologies: Git, GitHub
 - What I Learned: Version control, technical writing, software development fundamentals
  2. Software Foundation Summary
-Repository: [software-foundation-summary](link-to-your-repo)
+Repository: [software-foundation-summary](https://github.com/mkmalaufi-lgtm/-software-foundation-summary-11.git)
 - Description: Comprehensive reports on SDLC, Agile, and web development
 - Technologies: Git, GitHub, Technical Documentation
 - What I Learned: SDLC methodologies, Agile practices, .NET stack
