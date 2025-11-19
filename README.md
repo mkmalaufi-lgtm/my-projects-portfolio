@@ -1,6 +1,6 @@
  Projects
  1. Tech Learning Journal
-Repository: [tech-learning](link-to-your-repo)
+Repository: [tech-learning](https://github.com/mkmalaufi-lgtm/tech-learning.git)
 - Description: Technical documentation and reports about software development concepts
 - Technologies: Git, GitHub
 - What I Learned: Version control, technical writing, software development fundamentals
